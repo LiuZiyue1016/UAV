@@ -1,0 +1,33 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+
+  "Vehicles": {
+    "SDrone1": {
+      "VehicleType": "SimpleFlight",
+      "X": 0, "Y": 0, "Z": 0,
+      "Yaw": 90
+    }
+  },
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 1280,
+        "Height": 800,
+        "FOV_Degrees": 100,
+        "AutoExposureSpeed": 0,
+        "MotionBlurAmount": 0
+      },
+      {
+        "ImageType": 5,
+        "Width": 1280,
+        "Height": 800,
+        "FOV_Degrees": 100,
+        "AutoExposureSpeed": 0,
+        "MotionBlurAmount": 0
+      }
+    ],
+        "Pitch": 45, "Roll": 0, "Yaw": 0
+  }
+}
