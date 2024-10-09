@@ -2,7 +2,7 @@
 
 视觉识别模型训练环境
 
-- **Ubuntu20.04
-- **python==3.7.x
-- **pytorch==1.10.0+cuda11.0
-- **mmdetection==2.0.x
+- Ubuntu20.04
+- python==3.7.x
+- pytorch==1.10.0+cuda11.0
+- mmdetection==2.0.x
